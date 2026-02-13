@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/xtravel/clientlibs"/>
+    <filter root="/apps/xtravel/components"/>
+    <filter root="/apps/xtravel/i18n"/>
+</workspaceFilter>

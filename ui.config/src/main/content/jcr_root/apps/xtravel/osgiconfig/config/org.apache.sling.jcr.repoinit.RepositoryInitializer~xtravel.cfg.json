@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/xtravel",
+        "create path (nt:unstructured) /content/dam/xtravel/jcr:content",
+        "set properties on /content/dam/xtravel/jcr:content\n  set cq:conf{String} to /conf/xtravel\n  set jcr:title{String} to \"X-Travel Portal\"\nend"
+    ]
+}
